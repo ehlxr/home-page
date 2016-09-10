@@ -1,0 +1,3 @@
+# ehlxr robots.txt
+User-agent: *
+Allow: /
