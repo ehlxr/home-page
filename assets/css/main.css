@@ -171,3 +171,7 @@ ul, ol {
 }
 
 .hidden { display: none; }
+
+.hosted-by {
+    font-size: 0px;
+}
